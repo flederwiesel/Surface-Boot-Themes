@@ -10,7 +10,7 @@ terminal-box: "terminal_*.png"
    left = 1664
    top = 723
    width = 800
-   height = 380
+   height = 400
    item_font = "Ubuntu Regular 40"
    item_color = "#231f20"
    selected_item_color= "#ffffff"
