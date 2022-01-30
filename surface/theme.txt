@@ -6,7 +6,7 @@ terminal-font: "Calibri Regular 16"
 desktop-image: "desktop.png"
 terminal-box: "terminal_*.png"
 
-+ boot_menu {  
++ boot_menu {
    left = 1250
    width = 550
    top = 350
@@ -37,6 +37,3 @@ terminal-box: "terminal_*.png"
    center_bitmap = "centerQ.png"
    tick_bitmap = "startQ.png"
 }
-
-
-
