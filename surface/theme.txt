@@ -1,4 +1,4 @@
-# Designed for 2736x1824 resolution.
+# Designed for Surface Pro 4..7+ @2736x1824 resolution.
 
 message-font: "Ubuntu Regular 16"
 title-text: ""
@@ -7,13 +7,13 @@ desktop-image: "desktop.png"
 terminal-box: "terminal_*.png"
 
 + boot_menu {
-   left = 1250
-   width = 550
-   top = 350
-   height = 40%
-   item_font = "Ubuntu Regular 36"
-   item_color = "#ffffff"
-   selected_item_color= "#7fffcf"
+   left = 1664
+   top = 723
+   width = 800
+   height = 380
+   item_font = "Ubuntu Regular 40"
+   item_color = "#231f20"
+   selected_item_color= "#ffffff"
    icon_width = 78
    icon_height = 80
    item_height = 80
@@ -27,10 +27,10 @@ terminal-box: "terminal_*.png"
 + circular_progress
 {
    id = "__timeout__"
-   left = 500
-   width = 100
-   top = 100
-   height = 100
+   left = 1336
+   top = 1720
+   width = 64
+   height = 64
    num_ticks = 46
    ticks_disappear = true
    start_angle = -60
