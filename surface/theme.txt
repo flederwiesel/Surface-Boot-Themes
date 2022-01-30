@@ -1,4 +1,4 @@
-# Designed for 1920x1020 resolution.
+# Designed for 2736x1824 resolution.
 
 message-font: "Ubuntu Regular 16"
 title-text: ""
@@ -11,9 +11,9 @@ terminal-box: "terminal_*.png"
    width = 550
    top = 350
    height = 40%
-   item_font = "Ubuntu Regular 40"
-   item_color = "#231f20"
-   selected_item_color= "#f08080"
+   item_font = "Ubuntu Regular 36"
+   item_color = "#ffffff"
+   selected_item_color= "#7fffcf"
    icon_width = 78
    icon_height = 80
    item_height = 80
