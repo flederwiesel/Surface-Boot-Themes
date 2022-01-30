@@ -9,7 +9,7 @@ terminal-box: "terminal_*.png"
 + boot_menu {
    left = 1664
    top = 723
-   width = 800
+   width = 880
    height = 420
    item_font = "Ubuntu Regular 40"
    item_color = "#231f20"
